@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/clean/*.csv
+venv/
+.ipynb_checkpoints/
+__pycache__/
+~$*.xlsx
